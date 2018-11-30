@@ -2,12 +2,12 @@ Sam Chiet
 samnchiet@protonmail.com
 
 - Technical Skills -
-Langages: C# (4 years), C/C++ (1 year), Z80 assembly (1 year)
-Sofware Experience: OUYA, iOS, Windows, Xbox One UWP, Game Boy
+Languages: C# (4 years), C/C++ (1 year), Z80 assembly (1 year)
+Software Experience: OUYA, iOS, Windows, Xbox One UWP, Game Boy
 
 - Previous Work -
 Mindshow (2016, 1 year):
- Worked as a liason for the design team and engineering team, implementing protoype features in-engine to rapidly iterate on high-level design concepts. Implemented bugfixes and some main features.
+ Worked as a liaison for the design team and engineering team, implementing prototype features in-engine to rapidly iterate on high-level design concepts. Implemented bugfixes and some main features.
  Official Title: Junior Engineer
  Written in: Unity, C#
 
@@ -34,7 +34,7 @@ Raylib:
 Winner: Los Altos Hacks, 2016: KinectVR. Placed 1st.
         Created a Unity plugin that would allow one to use the Kinect for full-body room-scale tracking, before the advent of full-body roomscale tracking
 Winner: CodeDay LA, 2016: DozensInDungeon.Placed 1st; Best Overall
-        Created a procedrally generated dungeon-crawler, in which dozens of intrepid adventurers participate using their smartphones to control their own hero. Uses HappyFunTimes.
+        Created a procedurally generated dungeon-crawler, in which dozens of intrepid adventurers participate using their smartphones to control their own hero. Uses HappyFunTimes.
 
 - Misc Prototypes -
 (Just various tests I've done over the years.)
@@ -53,4 +53,4 @@ Winner: CodeDay LA, 2016: DozensInDungeon.Placed 1st; Best Overall
 -VR Third-Person Platformer
  An experiment to see what a third-person platformer could feel like in VR. (link)
 -VR Lightsabers
- It's VR lightsabers. You can use the force. That's all you really need to know. (link)
+It's VR lightsabers. You can use the force. That's all you really need to know. (link)
